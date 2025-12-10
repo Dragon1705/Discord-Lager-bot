@@ -1,0 +1,22 @@
+{
+  "ausgaben": {
+    "heute": {
+      "gruen": 0,
+      "schwarz": 0
+    },
+    "woche": {
+      "gruen": 0,
+      "schwarz": 0
+    }
+  },
+  "einnahmen": {
+    "heute": {
+      "gruen": 0,
+      "schwarz": 0
+    },
+    "woche": {
+      "gruen": 0,
+      "schwarz": 0
+    }
+  }
+}
